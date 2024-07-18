@@ -6,3 +6,4 @@ link below.
 https://thabo.netlify.app/
 
 
+![Screenshot 2024-07-18 161426](https://github.com/user-attachments/assets/d7755b76-4599-4d7e-a687-6e92bbac54f4)
